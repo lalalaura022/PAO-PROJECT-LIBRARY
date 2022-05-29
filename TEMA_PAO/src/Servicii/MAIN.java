@@ -8,4 +8,5 @@ public class MAIN {
         MENIU meniu = MENIU.getInstance();
         meniu.start();
     }
+
 }
