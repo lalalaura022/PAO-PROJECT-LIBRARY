@@ -1,0 +1,6 @@
+INSERT INTO sellers(name, number, age, salary)VALUES('Camelia', '0725611308', 44,40000)
+INSERT INTO sellers(name, number, age, salary)VALUES('Laura', '0725738308', 550,70000)
+INSERT INTO authors(name, number, age, dateBirth, numberOfBooks)VALUES('Eminescu', '0724268308', 46, '19.03.1873', 17)
+INSERT INTO authors(name, number, age, dateBirth, numberOfBooks)VALUES('Caragiale', '0721234508', 75,'13.12.1945', 27)
+INSERT INTO clients(name, number, age)VALUES('Andreea', '0725765408', 17)
+INSERT INTO clients(name, number, age)VALUES('Cosmin', '0729876308', 20)

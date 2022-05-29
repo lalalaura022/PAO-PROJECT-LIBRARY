@@ -1,0 +1,3 @@
+delete from clients
+delete from sellers
+delete from authors

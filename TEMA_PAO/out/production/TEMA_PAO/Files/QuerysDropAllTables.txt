@@ -1,0 +1,3 @@
+drop table if exists authors
+drop table if exists sellers
+drop table if exists clients
